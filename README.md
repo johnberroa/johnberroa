@@ -5,4 +5,4 @@ I'm a data scientist at PSIORI GmbH specializing in applying reinforcement learn
 - 🎓 B.A. Psychology, minor Behavioral Neuroscience @ Stockton University
 - 🎓 MSc. Cognitive Science @ Universität Osnabrück
 - 🛫 🏍️ 🖥️ 🏌️‍♂️ 🍝 🇩🇪 🇺🇸
-- 📫 Send me a message on GitHub 🙂
+- 📫 Send me an email 🙂
